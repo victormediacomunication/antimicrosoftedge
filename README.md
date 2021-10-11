@@ -1,4 +1,5 @@
 # antimicrosoftedge
+[the program are writted in italian]
 THIS PROGRAM HELP SON TO DELETE MICROSOFT EDGE
 ####How to install
 1. Copy noedge.exe to C:\Windows\System32
