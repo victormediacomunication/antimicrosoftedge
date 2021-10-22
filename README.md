@@ -13,7 +13,7 @@ THIS PROGRAM HELP TO DELETE MICROSOFT EDGE
 ####
 How to install
 1. Copy [ noedge.exe ] to `C:\Windows\System32`
-2. Right click on file and in properties uncheck <a class="button pill">unblock</a>
+2. Right click on file and in properties uncheck <a href="#" class="button pill">unblock</a>
 3. Run cmd
 Type
 `$ noedge -g`
