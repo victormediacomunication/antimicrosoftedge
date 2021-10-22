@@ -13,7 +13,7 @@ THIS PROGRAM HELP TO DELETE MICROSOFT EDGE
 ####
 How to install
 1. Copy [ noedge.exe ] to `C:\Windows\System32`
-2. Right click on file and in properties uncheck [![](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://github.com/user/repository/subscription)
+2. Right click on file and in properties uncheck <a href="#">unblock</a>
 3. Run cmd
 Type
 `$ noedge -g`
