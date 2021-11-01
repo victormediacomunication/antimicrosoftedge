@@ -14,7 +14,7 @@ THIS PROGRAM HELP TO DELETE MICROSOFT EDGE
 How to install
 1. Copy [ noedge.exe ] to `C:\Windows\System32`
 2. Right click on file and in properties uncheck [unblock]
-3. Run cmd
+3. Run cmd as administrator
 Type
 `$ noedge -g`
 Now this program ask you to enter Version Code of Microsoft Edge for this
