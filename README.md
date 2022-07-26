@@ -1,5 +1,5 @@
 # ANTI-EDGE
-Program Words : [🇮🇹]
+Programmed in Italy : [🇮🇹]
 
 Languages : [Bat & Powershell]
 
@@ -29,5 +29,5 @@ I recommend an AntiVirus scan
 [![stars - antimicrosoftedge](https://img.shields.io/github/stars/victormediacomunication/antimicrosoftedge?style=social)](https://github.com/victormediacomunication/antimicrosoftedge)
 [![forks - antimicrosoftedge](https://img.shields.io/github/forks/victormediacomunication/antimicrosoftedge?style=social)](https://github.com/victormediacomunication/antimicrosoftedge)
 
-[![GitHub tag](https://img.shields.io/github/tag/victormediacomunication/antimicrosoftedge?include_prereleases=&sort=semver&color=purple)](https://github.com/victormediacomunication/antimicrosoftedge/releases/)
+[![Relase](https://img.shields.io/github/tag/victormediacomunication/antimicrosoftedge?include_prereleases=&sort=semver&color=purple)](https://github.com/victormediacomunication/antimicrosoftedge/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
